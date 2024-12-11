@@ -43,7 +43,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .matrix {
+  .matrix-page {
     text-align: center;
   }
 }
