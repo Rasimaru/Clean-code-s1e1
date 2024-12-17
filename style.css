@@ -6,6 +6,7 @@ ul {
 
 li,
 h1,
+h2,
 h3 {
   list-style: none;
 }
@@ -178,6 +179,7 @@ body {
   display: none;
 }
 
-.matrix-page__title {
+.matrix-page__title,
+.todo__title {
   display: none;
 }
