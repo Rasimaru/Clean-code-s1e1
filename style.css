@@ -181,5 +181,8 @@ body {
 
 .matrix-page__title,
 .todo__title {
-  display: none;
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
 }
